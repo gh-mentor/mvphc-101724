@@ -1,0 +1,36 @@
+I am a novice programmer and would like a simple overview of the software development life cycle.
+
+I am a senior project manager and would like a detailed overview of the software development life cycle and how it can be applied to a project.
+
+Where in the c# documentation can i learn about classes? I will need a link to the reference.
+
+Can you assist with developing a project plan for a service-based architecture using NodeJS with ReactJS client side components. It is important the the project plan adheres to best practices (SOLID principles), including security and testing.
+
+How can I design a web application using the MVC pattern? I will be using Node.js and Express with ReactJS client side components.
+
+Show an example of how to test a Python component using PyTest.
+
+How can I securely handle user authentication for a service layer using JavaScript, NodeJS and Express?
+
+@workspace /new scaffold a SPA with ReactJS version 17.x that implents a 'tic-tac-toe' game. It is important to adhere to SOLID design principles and use the MVC pattern. 
+
+i need  sample hourly employee data. The sample should have a header row and at least 10 rows of data. The data should include the following columns: Employee ID, Department ID, First Name, Last Name, Hourly Rate. The data should be in a CSV file format.
+
+i need a  JSON array of 10 rows of data. The data should include the following keys: EmployeeID, DepartmentID, FirstName, LastName, HourlyRate. 
+
+How would I consume this JSON data using Python?
+
+
+I need help designing and implementing a web-based invoicing application for a service-based sole proprietorship. I am an experienced JavaScript developer and considering using Node and Express with ReactJS components.
+Details:
+- stores data in an easy to use data store
+- able to export data to excel (csv format)
+- the application should be easy to extend and adhere to SOLID design principles
+- Invoice management logic makes it easy to add and remove invoice items and clients
+- Reports for billing and ageing
+
+Please explain how to perform local and remote static analysis of a NodeJS app using GitHub CodeQL
+
+Describe how you can assist a QA professional in creating UI tests using Selenium. The application is written in C#.
+
+I am a Python programmer. How do I create UI tests using Selenium?
