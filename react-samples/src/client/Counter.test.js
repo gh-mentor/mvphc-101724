@@ -75,7 +75,7 @@ Render the Counter component.
 Click the increment button 10 times and verify that the count is 10 and the increment button is disabled
 Click the decrement button 10 times and verify that the count is 0 and the decrement button is disabled
 */
-test('disables the increment and decrement buttons at 0 and 10', () => {
+test('disables both buttons at 0 and 10', () => {
   const { getByText } = render(<Counter />);
   const incrementButton = getByText(/increment/i);
   const decrementButton = getByText(/decrement/i);
