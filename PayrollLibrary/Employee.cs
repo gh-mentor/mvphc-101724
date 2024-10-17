@@ -2,6 +2,10 @@
 This file contains the abstract class Employee. This class is the base for the HourlyEmployee and SalariedEmployee classes. It contains the properties and methods that are common to both classes.
 */
 
+using System;
+using System.Collections.Generic;
+
+
 namespace PayrollLibrary
 {
 
@@ -16,7 +20,7 @@ namespace PayrollLibrary
     - Email (string)
     - Mobile (string)
     - DepartmentId (int)
-  - The class has a public c'tor that accepts all the properties as parameters.
+  - he class has a Tpublic c'tor that accepts all the properties as parameters.
   - The class has the following public properties:
     - Payment (double) - get-only, abstract
   - The class has the following public methods:
